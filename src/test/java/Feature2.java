@@ -5,5 +5,9 @@ public class Feature2 {
 
 
         System.out.println("feature2");
+
+        System.out.println("feature2");
+        System.out.println("feature2");
+
     }
 }
