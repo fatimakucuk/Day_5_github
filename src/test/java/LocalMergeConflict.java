@@ -11,5 +11,7 @@ public class LocalMergeConflict {
         System.out.println("added some line im local master branch");
 //dfghjklñrtyhjkl
         System.out.println("added");
+
+        //HELLO SONER
     }
 }
